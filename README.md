@@ -23,8 +23,7 @@ Seawall structural integrity is crucial to protect coastal communities. Long ter
 Read more about the need for geotechnical visualizations and monitoring in this article [article](https://medium.com/data-tale/underground-version-2-0-2ce60f040245).
 
 
-![Image](https://raw.githubusercontent.com/mv1742/GEOPolice/master/Figs/Maxwell.jpg) ![Image2](https://raw.githubusercontent.com/mv1742/GEOPolice/master/Figs/Soldata.jpg)
-
+![image](https://user-images.githubusercontent.com/43248948/143324136-085f361f-333a-47b7-b324-d3711e37f659.png)
 *Figure 1. Current Geotechnical Technical Data Management Systems are used in infrastructure projects and cost millions of dollars to use and operate. An open-source platform can create a scalable product that can potentially provide free visualizations*
 
 Geo_police is a platform to visualize monitoring instruments real-time. It is open to any user.
