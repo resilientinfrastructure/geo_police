@@ -22,18 +22,21 @@ Seawall structural integrity is crucial to protect coastal communities. Long ter
 
 Read more about the need for geotechnical visualizations and monitoring in this article [article](https://medium.com/data-tale/underground-version-2-0-2ce60f040245).
 
+## Product Idea
+
+Geo_police is a platform to visualize monitoring instruments real-time. Constractors and operators should be legally obliged to provide this data to guarantee quality of the seawall.
+
+Map
+A map using ArcGIS/Mapbox open street maps
 
 ![image](https://user-images.githubusercontent.com/43248948/143324136-085f361f-333a-47b7-b324-d3711e37f659.png)
 *Figure 1. Current Geotechnical Technical Data Management Systems are used in infrastructure projects and cost millions of dollars to use and operate. An open-source platform can create a scalable product that can potentially provide free visualizations*
 
-Geo_police is a platform to visualize monitoring instruments real-time. It is open to any user.
+Sample instrumentation data visualization:
+![image](https://user-images.githubusercontent.com/43248948/143330002-e1e29a6a-622f-4dc7-a83a-497057c9247e.png)
 
-Sample data:
+sample inclinometers data:
+https://github.com/mv1742/seawall_police/tree/master/data
 
-inclinometers:
-
-settlement markers:
-
-tiltometers:
-
-We will simulate the data of structural health instruments like inclinimoters, settlement marker, and tiltometers  for the entire coast of the United States. 
+Other possible instrumentation visualization
+CPT, SPT, settlement markers, tiltometers...
