@@ -1,8 +1,6 @@
 # levee_police
 
-## Hackathon for Good
-
-### Topic: Urban Flood Mitigation
+### Flood Mitigation
 
 ### Description
 
