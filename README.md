@@ -37,10 +37,16 @@ Backend in Python aggregates displacement rates and identifies anomalies.
 
 Traditional instrumentation data visualization in Excel:
 ![image](https://user-images.githubusercontent.com/43248948/143330002-e1e29a6a-622f-4dc7-a83a-497057c9247e.png)
-Data is late, difficult to manage and it is not transparent and it is not shared with the client in a timely manner.
 
-sample inclinometers data:
+Data is usually late, difficult to manage, and not shared with the client in a timely manner.
+
+Sample inclinometers data:
 https://github.com/mv1742/levee_police/tree/master/data
+
+Architecture diagram:
+![Screenshot (456)](https://user-images.githubusercontent.com/43248948/159421223-ba37d187-097e-48f8-8e80-d9bdeb34af1a.png)
+
+
 
 Other possible instrumentation visualization
 CPT, SPT, settlement markers, tiltometers...
