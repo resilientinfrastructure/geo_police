@@ -21,7 +21,7 @@ Read more about the need for geotechnical visualizations and monitoring in this 
 Current Geotechnical Technical Data Management Systems used in infrastructure projects cost millions of dollars. Modern data tools like real-time monitoring, dashboards, and data science provide the opportunity to improve the way we operate infrastructure projects. An open-source using all these modern tools can provide value for all parties involved.
 
 <figure>
-<img src="https://user-images.githubusercontent.com/43248948/143324136-085f361f-333a-47b7-b324-d3711e37f659.png" alt="Trulli" style="width:100%">
+<img src="https://user-images.githubusercontent.com/43248948/143324136-085f361f-333a-47b7-b324-d3711e37f659.png" alt="Trulli" style="width:50%">
 <figcaption align = "center"><b>Figure 1. Current Geotechnical Technical Data Management Systems are used in infrastructure projects and cost millions of dollars to use and operate. An open-source platform can create a scalable product that can potentially provide free visualizations</b></figcaption>
 </figure>
 
@@ -32,7 +32,7 @@ Current Geotechnical Technical Data Management Systems used in infrastructure pr
 ## Solution
 Possible architecture diagram:
 <figure>
-<img src="https://user-images.githubusercontent.com/43248948/159421223-ba37d187-097e-48f8-8e80-d9bdeb34af1a.png" alt="Trulli" style="width:100%">
+<img src="https://user-images.githubusercontent.com/43248948/159421223-ba37d187-097e-48f8-8e80-d9bdeb34af1a.png" alt="Trulli" style="width:50%">
 <figcaption align = "center"><b>Possible architecture diagram</b></figcaption>
 </figure>
 
