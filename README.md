@@ -30,7 +30,11 @@ Current Geotechnical Technical Data Management Systems used in infrastructure pr
 `Geo_police` is a platform to visualize structural and geotechnical monitoring instruments real-time. This way contractors and operators can improve their deliverables and guarantee better quality of structures.
 
 ## Solution
-Possible architecture diagram:
+Possible architecture involves
+1) Individual instrument data in raw format .csv, .json, .xlsx provided by the contractor, operator, or any other groundwork party.
+2) Data processing with Python - aggregation, anomaly detection, etc.
+3) PowerBI / Flask Data Visualizations
+
 <figure>
 <img src="https://user-images.githubusercontent.com/43248948/159421223-ba37d187-097e-48f8-8e80-d9bdeb34af1a.png" alt="Trulli" style="width:50%">
 <figcaption align = "center"><b>Possible architecture diagram</b></figcaption>
