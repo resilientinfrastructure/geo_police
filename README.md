@@ -8,6 +8,9 @@
 
 ![image](https://user-images.githubusercontent.com/43248948/143323607-f6d6ef67-86ed-4a1e-b6f2-884acb6f1ac3.png)
 
+Go to website:
+[https://resilientinfrastructure.github.io/levee_police/](levee_police website: https://resilientinfrastructure.github.io/levee_police/)
+
 
 ### Motivation
 
@@ -22,16 +25,19 @@ Read more about the need for geotechnical visualizations and monitoring in this 
 
 ## Product Idea
 
-Geo_police is a platform to visualize monitoring instruments real-time. Constractors and operators should be legally obliged to provide this data to guarantee quality of the levee.
+Geo_police is a platform to visualize monitoring instruments real-time. Contractors and operators should be legally obliged to provide this data to guarantee quality of the levee.
 
 Map
-A map using ArcGIS/Mapbox open street maps
+A dashboard using Mapbox open street maps and Power BI
+
+Backend in Python aggregates displacement rates and identifies anomalies.
 
 ![image](https://user-images.githubusercontent.com/43248948/143324136-085f361f-333a-47b7-b324-d3711e37f659.png)
 *Figure 1. Current Geotechnical Technical Data Management Systems are used in infrastructure projects and cost millions of dollars to use and operate. An open-source platform can create a scalable product that can potentially provide free visualizations*
 
-Sample instrumentation data visualization:
+Traditional instrumentation data visualization in Excel:
 ![image](https://user-images.githubusercontent.com/43248948/143330002-e1e29a6a-622f-4dc7-a83a-497057c9247e.png)
+Data is late, difficult to manage and it is not transparent and it is not shared with the client in a timely manner.
 
 sample inclinometers data:
 https://github.com/mv1742/levee_police/tree/master/data
