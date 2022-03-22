@@ -1,6 +1,5 @@
-# levee_police
+# geo_police
 
-### Flood Mitigation
 
 ### Description
 
@@ -9,8 +8,7 @@
 ![image](https://user-images.githubusercontent.com/43248948/143323607-f6d6ef67-86ed-4a1e-b6f2-884acb6f1ac3.png)
 
 Go to website:
-[https://resilientinfrastructure.github.io/geo_police/](geo_police website: https://resilientinfrastructure.github.io/geo_police/)
-
+[geo_police website: https://resilientinfrastructure.github.io/geo_police/](https://resilientinfrastructure.github.io/geo_police/)
 
 ### Motivation
 
