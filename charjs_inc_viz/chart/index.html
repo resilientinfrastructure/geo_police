@@ -9,86 +9,31 @@
   <title>My Chart.js Chart</title>
 </head>
 <body>
-  <div class="container"  style="position: relative; height:10vh; width:80vw">
-    <canvas id="myChart"></canvas>
-  </div>
-  <script>
+<div class="about" id="ref">
+	<div class="container">
+		<h1 class="text-center">Alternative Chart-JS Instruments Plots</h1>
+		<div class="row">
+			<div class="col-lg-8 col-md-8 col-sm-12 desc">
+				<p style="font-size: 20px; color:#1F9AFE;">
+					<a href="charjs_inc_viz/chart2/index.html">See inclinometer instrument id 100000000</a>
+				</p>
+
+				<p style="font-size: 20px; color:#1F9AFE;">
+					<a href="charjs_inc_viz/chart3/index.html">See inclinometer instrument id 100000001</a>
+				</p>
+
+				<p style="font-size: 20px; color:#1F9AFE;">
+					<a href="charjs_inc_viz/chart4/index.html">See inclinometer instrument id 100000002</a>
+				</p>
+
+				<p style="font-size: 20px; color:#1F9AFE;">
+					<a href="charjs_inc_viz/chart5/index.html">See inclinometer instrument id 100000003</a>
+				</p>
 
 
- const data = {
-  datasets: [{
-    fill: false,
-    showLine: true,
-    label: 'Scatter Dataset',
-    data: [{
-      x: 0.0,
-      y: -5.0
-    }, {
-      x: 12.79,
-      y: -6.0
-    }, {
-      x: 25.92,
-      y: -7.0,
-    }, {
-      x: 30.81,
-      y: -9.0
-    }],
-    backgroundColor: 'rgb(255, 99, 132)'
-  }],
-      };
-          // label:'depth',
-
-          //backgroundColor:'green',
-// <!-- // --> config
-const config = { type:'scatter', // bar, horizontalBar, pie, line, doughnut, radar, polarArea
-      data,
-      options:{
-        title:{
-          display:true,
-          text:'Inclinometer Deflection',
-          fontSize:25
-        },
-        legend:{
-          display:true,
-          position:'right',
-          labels:{
-            fontColor:'#000'
-          }
-        },
-        layout:{
-          padding:{
-            left:50,
-            right:0,
-            bottom:0,
-            top:0
-          }
-        },
-        tooltips:{
-          enabled:true
-        },
-        indexAxis: 'y',
-    scales: {
-      x: {
-        suggestedMin: 50,
-        suggestedMax: 100
-
-      },
-      xAxis: {
-        position: 'right',
-      }
-    }
-
-      }
-    }
-// <!-- // initn-->
-let myChart = document.getElementById('myChart').getContext('2d');
-
-
-
-let massPopChart = new Chart(myChart,
-        config
-    );
-    config
-  </script>
+			</div>
+		</div>
+	</div>
+</div>
 </body>
 </html>
