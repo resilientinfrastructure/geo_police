@@ -3,7 +3,7 @@
 
 ### Description
 
-`geo_police` offers simple open-source visualizations for geotechnical instruments for structural health monitoring.
+`geo_police` offers simple visualizations and analytics for geotechnical instruments for structural health monitoring.
 
 ![image](https://user-images.githubusercontent.com/43248948/143323607-f6d6ef67-86ed-4a1e-b6f2-884acb6f1ac3.png)
 
@@ -11,7 +11,7 @@ Go to website POC:
 geo_police [website](https://resilientinfrastructure.github.io/geo_police/)
 
 ### Motivation
-Structural integrity is crucial to protect underground infrastructure. Long term health and quality control can be achieved with adequate data monitoring. To ensure long-term life-cycle of our infrastructure projects, structural health monitoring offers the opportunity to supervise the infrastructure works and hold operating and construction parties accountable during the process. There is a need for further collaborative platforms with servers, maps, and info-graphics built on top of existing standards to improve how we monitor infrastructure spending. 
+Structural integrity is crucial to protect underground infrastructure. Long term health and quality control can be achieved with adequate data monitoring. To ensure long-term life-cycle of our infrastructure projects, structural health monitoring offers the opportunity to supervise infrastructure works and hold operating and construction parties accountable during the process. There is a need for further collaborative platforms with analytics, servers, maps, and info-graphics built on top of existing standards to improve how we monitor infrastructure spending. 
 
 Read more about the need for geotechnical visualizations and monitoring in this article [article](https://medium.com/data-tale/underground-version-2-0-2ce60f040245).
 
