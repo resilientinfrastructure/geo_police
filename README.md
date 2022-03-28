@@ -11,14 +11,14 @@ Go to website POC:
 geo_police [website](https://resilientinfrastructure.github.io/geo_police/)
 
 ### Motivation
-Structural integrity is crucial to protect underground infrastructure. Long term health and quality control can be achieved with adequate data monitoring. To ensure long-term life-cycle of our infrastructure projects, structural health monitoring offers the opportunity to supervise infrastructure works and hold operating and construction parties accountable during the process. There is a need for further collaborative platforms with analytics, servers, maps, and info-graphics built on top of existing standards to improve how we monitor infrastructure spending. 
+Structural integrity is crucial to protect underground infrastructure. Long term health and quality control can be achieved with adequate data monitoring.
 
 Read more about the need for geotechnical visualizations and monitoring in this article [article](https://medium.com/data-tale/underground-version-2-0-2ce60f040245).
 
 ## Problem
 **Geotechnical data is usually incomplete and delivered late to clients**.
 
-Current Geotechnical Technical Data Management Systems used in infrastructure projects cost millions of dollars. Modern data tools like real-time monitoring, dashboards, and data science provide the opportunity to improve the way we operate infrastructure projects. An open-source using all these modern tools can provide value for all parties involved.
+Current Geotechnical Technical Data Management Systems used in infrastructure projects cost millions of dollars. Modern data tools like real-time monitoring, dashboards, and data science provide the opportunity to improve the way we operate infrastructure projects. An open-source tool can provide value for all parties involved.
 
 <figure>
 <img src="https://user-images.githubusercontent.com/43248948/143324136-085f361f-333a-47b7-b324-d3711e37f659.png" alt="Trulli" style="width:50%">
